@@ -2,7 +2,7 @@
 Dynamic Customer Care website created with HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, PHP, MySQL, Ajax
 
 # Getting Started
-In order to run these files, you have `php >=7` installed in your computer, you must have `xampp` installed to run the application on local server.
+In order to run these files, you must have `php >=7` installed in your computer, you must have `xampp` installed to run the application on local server.
 ## Steps
 - In xampp folder, go to the folder named `htdocs`.
 - Create a new Folder there.
